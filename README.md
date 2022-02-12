@@ -15,7 +15,6 @@ There is optimal transfer of load taking place between the cooks. For eg, if a c
 
 Notation -> M/ M/ Number of cooks : FCFS/ Total_number_of_orders(<Threshold)/ Infinite queries
 
-3.
 Mean Service rate => 10 orders per hour can be served per cook (Assumption)
 Mean Arrival rate => Average(Orders) / 60 mins (Calculate for each shift)
 For eg - Shift 1
